@@ -1,4 +1,4 @@
-#	LayText.org
+#	[LayText.co](https://laytext.co)
 Making the tools that work for you.
 
 ##	The LayText keyboard:
