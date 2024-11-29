@@ -26,4 +26,7 @@ All LaTeX typed on the keyboard on the keyboard will be rendered live on your de
 #### A bootable system
 A bootable OS made for writing.
 Made for schools that want to enable students to type on tests without the risk of cheating.
-Will support printing and admin/guest permission managing.  
+Will support printing and admin/guest permission managing.
+
+### Disclaimer:
+**All information on this page may change and/or be expanded upon as development continues.**
